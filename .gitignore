@@ -25,3 +25,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Add the work coverage to the last line in .gitignore 
+# so your coverage folderdoesnotgettrackedinyourgitrepository.
+coverage
